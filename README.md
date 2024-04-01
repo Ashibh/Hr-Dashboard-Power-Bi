@@ -1,4 +1,4 @@
-# Hr-Dashboard Power Bi
+# Hr Dashboard Power Bi
 
 ## Through the power of data visualization, we aim to delve into the intricacies of the employee landscape using Power BI. By analyzing key metrics such as gender distribution, educational qualifications, salary trends, and leave balances, we can gain valuable insights into the workforce dynamics.
 
