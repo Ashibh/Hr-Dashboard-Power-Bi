@@ -1,29 +1,18 @@
 # Hr-Dashboard Power Bi
 
-## Our organization boasts a diverse workforce with employees spanning various demographics and professional backgrounds. Through the power of data visualization, we aim to delve into the intricacies of our employee landscape using Power BI. By analyzing key metrics such as gender distribution, educational qualifications, salary trends, and leave balances, we can gain valuable insights into our workforce dynamics.
+## Through the power of data visualization, we aim to delve into the intricacies of the employee landscape using Power BI. By analyzing key metrics such as gender distribution, educational qualifications, salary trends, and leave balances, we can gain valuable insights into the workforce dynamics.
 
-### Worksheet 1: Occupational Kaleidoscope**
-*Components:*
-- Stacked bar chart displaying job titles categorized by educational qualification and gender.
-- Filter options for selecting specific educational qualifications or genders for deeper analysis.
-*Insights:*
-- Identify the predominant job titles within each educational qualification and gender group.
-- Assess the representation of different genders across various job roles to ensure inclusivity and equality.
+### Occupational Kaleidoscope
+- With this we can identify the predominant job titles within each educational qualification and gender group.
+- We can also assess the representation of different genders across various job roles to ensure inclusivity and equality.
   
-### Worksheet 2: 55% of the Staff is Female**
-*Components:*
-- Pie chart illustrating the percentage of male and female employees.
-- Dynamic text box displaying the exact percentage of female staff.
-*Insights:*
-- Emphasize the gender diversity within the organization, celebrating the role of female employees.
-- Compare the proportion of female staff across different departments or job levels for targeted diversity initiatives.
+###  55% of the Staff is Female**
+- This emphasizes the gender diversity within the organization, celebrating the role of female employees.
+- It also compares the proportion of female staff across different departments or job levels for targeted diversity initiatives.
 
 ### Worksheet 3: Average of Salary**
-*Components:*
-- Line chart showcasing the trend of average salary over time.
-- Filter options for segmenting data by gender, age group, or job title.
-*Insights:*
-- Identify any disparities in salary based on gender, age, or job role.
+ 
+- The visualization identifies any disparities in salary based on gender, age, or job role.
 - Monitor salary trends over time to ensure competitive compensation and retention of talent.
 
 ### Worksheet 4: Vibrant Workforce of Ages 30-40**
