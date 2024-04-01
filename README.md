@@ -8,19 +8,18 @@
   
 ###  55% of the Staff is Female
 - This emphasizes the gender diversity within the organization, celebrating the role of female employees.
-- It also compares the proportion of female staff across different departments or job levels for targeted diversity initiatives.
+- It also compares the proportion of female staff across different departments.
 
 ### Average of Salary
-- The visualization identifies any disparities in salary based on gender, age, or job role.
-- Monitor salary trends over time to ensure competitive compensation and retention of talent.
+- The visualization identifies any disparities in salary,their minimum and maximum salary based on the job role.
 
 ### Vibrant Workforce of Ages 30-40
-- Recognize the significant contribution of mid-career professionals to the workforce.
-- Assess the retention and career progression opportunities for employees within this age bracket.
+- Here we can recognize the significant contribution of mid-career professionals to the workforce.
+- It assesses the retention and career progression opportunities for employees within this age bracket.
 
 ### Average Leave Balance w.r.t. Job
-- Identify job roles with higher or lower average leave balances for targeted HR interventions.
-- Assess the impact of job roles on employee well-being and work-life balance.
+- Identifies job roles with higher or lower average leave balances for targeted HR interventions.
+- Assesses the impact of job roles on employee well-being and work-life balance.
 
 ## Conclusion
-By harnessing the power of Power BI, we have gained valuable insights into our workforce dynamics, ranging from occupational diversity to salary trends and employee demographics. Armed with this knowledge, we can make informed decisions to foster an inclusive, equitable, and thriving workplace environment.
+By harnessing the power of Power BI, we have gained valuable insights into the workforce dynamics, ranging from occupational diversity to salary trends and employee demographics. Armed with this knowledge, we can make informed decisions to foster an inclusive, equitable, and thriving workplace environment.
