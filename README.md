@@ -10,24 +10,15 @@
 - This emphasizes the gender diversity within the organization, celebrating the role of female employees.
 - It also compares the proportion of female staff across different departments or job levels for targeted diversity initiatives.
 
-### Worksheet 3: Average of Salary**
- 
+### Average of Salary
 - The visualization identifies any disparities in salary based on gender, age, or job role.
 - Monitor salary trends over time to ensure competitive compensation and retention of talent.
 
-### Worksheet 4: Vibrant Workforce of Ages 30-40**
-*Components:*
-- Donut chart representing the distribution of employees within the specified age range.
-- Dynamic text box displaying the percentage of employees aged 30-40 years.
-*Insights:*
+### Vibrant Workforce of Ages 30-40
 - Recognize the significant contribution of mid-career professionals to the workforce.
 - Assess the retention and career progression opportunities for employees within this age bracket.
 
-### Worksheet 5: Average Leave Balance w.r.t. Job**
-*Components:*
-- Bar chart illustrating the average leave balance for different job titles.
-- Filter options for narrowing down the analysis by department or gender.
-*Insights:*
+### Average Leave Balance w.r.t. Job
 - Identify job roles with higher or lower average leave balances for targeted HR interventions.
 - Assess the impact of job roles on employee well-being and work-life balance.
 
